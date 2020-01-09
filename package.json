@@ -1,0 +1,35 @@
+{
+  "name": "nextjs-firebase-blog",
+  "version": "1.0.0",
+  "description": "A blog app created using Next.js and Firebase ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "next start",
+    "dev": "next",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guhandelta/nextjs-firebase-blog.git"
+  },
+  "keywords": [
+    "Nextjs",
+    "Next.js",
+    "Firebase",
+    "Blog",
+    "Nextjs",
+    "blog"
+  ],
+  "author": "Guhaprasaanth Nandagopal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guhandelta/nextjs-firebase-blog/issues"
+  },
+  "homepage": "https://github.com/guhandelta/nextjs-firebase-blog#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "next": "^7.0.2"
+  }
+}
