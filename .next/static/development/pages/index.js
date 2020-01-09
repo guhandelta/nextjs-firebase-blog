@@ -116,7 +116,7 @@
         /***/
       },
 
-    /***/ 4:
+    /***/ 3:
       /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/
@@ -144,6 +144,6 @@
         /***/
       }
   },
-  [[4, 'static/runtime/webpack.js']]
+  [[3, 'static/runtime/webpack.js']]
 ]);
 //# sourceMappingURL=index.js.map
